@@ -1,27 +1,33 @@
-# Hi, I am Ivanka
+<h1 align="center">
+Hi there 👋, I am Ivanka
+</h1>
 
-I'm a passionate **Software Engineer** actively exploring various fields to find my niche.
+I'm a passionate **Software Engineer** actively exploring various fields to find my niche. 
 
-## Technologies & Tools
+### 🔧 Some Technologies & Tools I Use
 
 - **Languages:** TypeScript/JavaScript(ES6+), Java.
 - **Frontend:** React, Next.js, HTML5, CSS3 (Tailwind CSS).
 - **Backend:** Node.js (Express), Spring, Hibernate.
 - **Databases:** SQL (PostgreSQL), NoSQL (MongoDB, Redis)
-- **Testing:** JUnit, Mockito.
 - **Tools:** Docker, Kubernetes, VS, VSCode, IntelliJ IDEA, Git, Trello, Jira, Figma, Confluence, Doxygen.
-- **Some experience:** Amazon S3, Oracle Cloud Infrastructure (OCI), Python (Django).
 
-## Currently Exploring
-
-I'm currently diving into **full stack development**, eager to understand both front-end and back-end technologies and how they work together to create seamless applications.
-
-## Projects
+### 🚀 Projects
 
 Here are a few of my favorite projects:
-- [Sellify](https://github.com/Xamarsia/sellify): A microservice demo of an e-commerce web platform.
-- [SPSP](https://github.com/Xamarsia/spsp-deployment): A microservice web-based demo of a social media platform.
- 
-## Fun fact: 
 
-My favorite principle is **KISS**.
+<div align="center">
+ <a href="https://github.com/xamarsia/sellify">
+   <img  alt="sellify repo"  align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin?username=xamarsia&repo=sellify&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+ </a>
+  <a href="https://github.com/xamarsia/spsp-deployment">
+    <img alt="spsp-deployment repo" width="45%" src="https://github-readme-stats.vercel.app/api/pin?username=xamarsia&repo=spsp-deployment&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+ </a>
+</div>
+
+<!-- <p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=xamarsia&show_icons=true&theme=gotham&hide=stars,contribs" alt="github-readme-stats" 
+  />
+</p> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamarsia&layout=compact&theme=radical" /> -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xamarsia&theme=github_dark) -->
