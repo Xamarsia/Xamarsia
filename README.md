@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I am Ivanka
 
-<!--
-**Xamarsia/Xamarsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** actively exploring various fields to find my niche.
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript/JavaScript(ES6+), Java.
+- **Frontend:** React, Next.js, HTML5, CSS3 (Tailwind CSS).
+- **Backend:** Node.js (Express), Spring, Hibernate.
+- **Databases:** SQL (PostgreSQL), NoSQL (MongoDB, Redis)
+- **Testing:** JUnit, Mockito.
+- **Tools:** Docker, Kubernetes, VS, VSCode, IntelliJ IDEA, Git, Trello, Jira, Figma, Confluence, Doxygen.
+- **Some experience:** Amazon S3, Oracle Cloud Infrastructure (OCI), Python (Django).
+
+## Currently Exploring
+
+I'm currently diving into **full stack development**, eager to understand both front-end and back-end technologies and how they work together to create seamless applications.
+
+## Projects
+
+Here are a few of my favorite projects:
+- [Sellify](https://github.com/Xamarsia/sellify): A microservice demo of an e-commerce web platform.
+- [SPSP](https://github.com/Xamarsia/spsp-deployment): A microservice web-based demo of a social media platform.
+ 
+## Fun fact: 
+
+My favorite principle is **KISS**.
